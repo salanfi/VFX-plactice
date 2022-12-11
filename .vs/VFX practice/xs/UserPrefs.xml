@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B6B522A1-35ED-4E99-B58E-ECAA369F1D2C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Fireworkaction.cs">
+    <Files>
+      <File FileName="Assets/scripts/targetmove.cs" Line="9" Column="17" />
+      <File FileName="Assets/scripts/cameratargetmove.cs" />
+      <File FileName="Assets/scripts/lighttargetmove.cs" Line="18" Column="83" />
+      <File FileName="Library/PackageCache/com.unity.visualeffectgraph@10.2.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Firework action.cs" Line="16" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VFX practice" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Fireworkaction.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6d4d08b5-de80-40b0-af81-6420bf443bf4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
