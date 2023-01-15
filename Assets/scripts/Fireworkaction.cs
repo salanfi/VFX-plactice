@@ -13,9 +13,9 @@ public class Fireworkaction : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        effectvfx.SendEvent("OffPlay");
         firework.SendEvent("OffPlay");
         botanfirework.SendEvent("OffPlay");
+        effectvfx.SendEvent("OffPlay");
         fireworks2.SendEvent("OffPlay");
         beefireworks.SendEvent("OffPlay");
     }

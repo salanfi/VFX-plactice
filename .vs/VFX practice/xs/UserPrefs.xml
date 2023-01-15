@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{B6B522A1-35ED-4E99-B58E-ECAA369F1D2C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Fireworkaction.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/scenemanager.cs">
     <Files>
       <File FileName="Assets/scripts/targetmove.cs" Line="9" Column="17" />
       <File FileName="Assets/scripts/cameratargetmove.cs" />
       <File FileName="Assets/scripts/lighttargetmove.cs" />
       <File FileName="Library/PackageCache/com.unity.visualeffectgraph@10.2.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs" />
-      <File FileName="Assets/scripts/Fireworkaction.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Fireworkaction.cs" Line="18" Column="40" />
+      <File FileName="Assets/scripts/scenemanager.cs" Line="4" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
           <Node name="VFX practice" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="scripts" expanded="True">
-                <Node name="targetmove.cs" selected="True" />
+                <Node name="scenemanager.cs" selected="True" />
               </Node>
             </Node>
           </Node>

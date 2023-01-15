@@ -1,2 +1,221 @@
 Base path: '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.2.3f1/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=9 insize=101653 outsize=17633 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=337822 outsize=132758 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=336242 outsize=51361 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=337385 outsize=56704 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=339398 outsize=139392 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=90406 outsize=1373 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1283 outsize=1289 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=1283 outsize=1473 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=71794 outsize=4588 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=89246 outsize=17544 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=38294 outsize=1711 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=38294 outsize=13516 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=73521 outsize=2678 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=56049 outsize=34783 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=55702 outsize=36586 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=232685 outsize=31095 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=72601 outsize=15065 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=106033 outsize=32574 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=1596 outsize=2669 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=89285 outsize=8245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=263115 outsize=22041 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 9 at (-1): HLSLcc: The resource '_IndirectDiffuseHitPointTextureRW' uses an unsupported type/format
+  api=9 insize=263472 outsize=20912 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4968 outsize=6845 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=4766 outsize=7993 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=4780 outsize=6116 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=53771 outsize=40488 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 9 at (-1): HLSLcc: The resource '_ExposureDebugTexture' uses an unsupported type/format
+  error: 1 plat 9 at (-1): HLSLcc: The resource '_OutputTexture' uses an unsupported type/format
+  api=9 insize=111550 outsize=10188 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=299656 outsize=9924 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=75849 outsize=15759 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=75883 outsize=1853 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=75430 outsize=846 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=87375 outsize=2510 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=72684 outsize=7558 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=94002 outsize=22741 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49876 outsize=5682 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=69983 outsize=1059 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=94035 outsize=26710 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=87951 outsize=15217 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=72224 outsize=26218 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=111208 outsize=20222 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=111839 outsize=22319 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=107743 outsize=10996 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=63216 outsize=45175 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=71726 outsize=16362 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=70778 outsize=308 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=70902 outsize=1317 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=96083 outsize=7124 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=71086 outsize=13090 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=194019 outsize=20012 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=194023 outsize=13237 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=100600 outsize=11716 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=88802 outsize=320 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=97065 outsize=6605 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=99846 outsize=7299 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=322826 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421971 outsize=330778 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=209264 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=149643 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419551 outsize=144238 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=99852 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419551 outsize=98325 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=146452 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=143103 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420857 outsize=127420 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=243165 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421971 outsize=248271 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=146864 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=107788 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421492 outsize=109865 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=422642 outsize=174190 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=162364 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420857 outsize=127743 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=217552 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421971 outsize=222352 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=140794 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=102515 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421492 outsize=104843 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=422642 outsize=154049 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=142242 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420857 outsize=127705 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421336 outsize=255763 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419551 outsize=248509 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=422642 outsize=175203 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420186 outsize=158233 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421971 outsize=102964 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419551 outsize=96492 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421334 outsize=166365 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421334 outsize=147140 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=141455 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=422640 outsize=218387 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420184 outsize=202053 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421969 outsize=138496 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=130749 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421334 outsize=94919 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420184 outsize=141454 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=138097 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=134827 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421969 outsize=116603 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=117021 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=420184 outsize=71233 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419549 outsize=71233 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421334 outsize=52556 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421969 outsize=52556 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421490 outsize=49453 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=439297 outsize=360586 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=437221 outsize=341122 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=421237 outsize=300864 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=419452 outsize=293354 ok=1
