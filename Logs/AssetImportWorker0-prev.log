@@ -1,0 +1,1131 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/sanshoutakumi/Desktop/unity/VFX practice
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57508
+Successfully changed project path to: /Users/sanshoutakumi/Desktop/unity/VFX practice
+/Users/sanshoutakumi/Desktop/unity/VFX practice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 100.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/sanshoutakumi/Desktop/unity/VFX practice/Assets
+GfxDevice: creating device client; threaded=0
+2023-01-15 11:24:48.697 Unity[5091:6989621] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2023-01-15 11:24:48.697 Unity[5091:6989621] Metal devices available: 1
+2023-01-15 11:24:48.697 Unity[5091:6989621] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2023-01-15 11:24:48.700 Unity[5091:6989621] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56091
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.3f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.015412 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 92.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.537 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 105.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.936 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 258.6 MB.
+System memory in use after: 258.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3908.
+Total: 4.034626 ms (FindLiveObjects: 0.407213 ms CreateObjectMapping: 0.244554 ms MarkObjects: 3.189944 ms  DeleteObjects: 0.190458 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b867d29d75e50d269f2beb99913744c1') in 1.931832 seconds
+  Import took 1.940788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.399302 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f505b3bb530087124d5bb77cae85feea') in 0.007425 seconds
+  Import took 0.029939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025870 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f505b3bb530087124d5bb77cae85feea') in 0.004912 seconds
+  Import took 0.016648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.924787 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec3618dbe43d4fb998c2f5d63561302') in 0.004556 seconds
+  Import took 0.026996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.696607 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d09db75ca70ed1cdd2390e29b68082') in 0.006997 seconds
+  Import took 0.016993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001074 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d09db75ca70ed1cdd2390e29b68082') in 0.006478 seconds
+  Import took 0.015846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.790722 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5691d9fae4bbaa90267ea419cd541a68') in 0.006308 seconds
+  Import took 0.017821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.004474 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39da18b94e5e1820d71a19cf3c359085') in 0.008376 seconds
+  Import took 0.017763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.867868 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf332ee40b0f04d1f57d5e46627ac76') in 0.006720 seconds
+  Import took 0.017168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.635481 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1137b3d2211c2adff19b47944c3269c3') in 0.007138 seconds
+  Import took 0.017351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.060352 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae5b0c0cfb3e348f535e0f71f6fc479') in 0.006934 seconds
+  Import took 0.023430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.922744 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbd1ed225ab943072a451974fe919ff') in 0.012905 seconds
+  Import took 0.022838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.225362 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be83b3c2829597c879de698176313edd') in 0.005351 seconds
+  Import took 0.015199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.438568 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52c9236ac90c6c8caa86e12db75716d') in 0.011712 seconds
+  Import took 0.026418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.394410 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd883e9f07da1747871ee8d6d0ec293ea') in 0.007451 seconds
+  Import took 0.020689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.152764 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d4f5d93237fbbc0030efaa2b119bdd') in 0.006674 seconds
+  Import took 0.017104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.276948 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442e80bcb17c5a067af45173a354ca7c') in 0.011004 seconds
+  Import took 0.033885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008616 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442e80bcb17c5a067af45173a354ca7c') in 0.009824 seconds
+  Import took 0.021220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.598075 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de94c5f63bbcf73464a2faa5355ec86e') in 0.007010 seconds
+  Import took 0.019307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.245977 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2352e3c6232168bf9cd61ba749b8ccc7') in 0.010746 seconds
+  Import took 0.024054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047230 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2352e3c6232168bf9cd61ba749b8ccc7') in 0.009268 seconds
+  Import took 0.020351 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.650 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 248.3 MB.
+System memory in use after: 248.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3910.
+Total: 2.565401 ms (FindLiveObjects: 0.370771 ms CreateObjectMapping: 0.135468 ms MarkObjects: 1.985892 ms  DeleteObjects: 0.070506 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.821415 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20781cd5320ca327d988dd7acec4839') in 0.022497 seconds
+  Import took 0.034971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.788670 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849ea6722062d961b185643a2c2a98ac') in 0.010077 seconds
+  Import took 0.029127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.963368 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa297b2d5f2d9eebaa4ba7f3f0d8237') in 0.007546 seconds
+  Import took 0.018406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.677724 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57b6b318fbaf8dc07c2d0efa35a6444') in 0.011212 seconds
+  Import took 0.024090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.484301 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297b6756cb3e36b45a1590c0525fa226') in 0.008472 seconds
+  Import took 0.018093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.416116 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824661c62f99a521e1c26a1756cbbdfe') in 0.010812 seconds
+  Import took 0.027937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.326302 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918b3455f7bfb8af3ec1843b1c8b8741') in 0.010542 seconds
+  Import took 0.023534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.832812 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639234c63bfd03111fd02eecb7348b6d') in 0.010763 seconds
+  Import took 0.020760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.572876 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5589acdfbd343a21296daa6a6aaea8a8') in 0.009032 seconds
+  Import took 0.023861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.687017 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676d734894df278471b1c6e1fd40f9de') in 0.009505 seconds
+  Import took 0.023438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.754088 seconds.
+  path: Assets/scripts/Fireworkaction.cs
+  artifactKey: Guid(040dcd29d7989470c8dc7ac91bb5e615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Fireworkaction.cs using Guid(040dcd29d7989470c8dc7ac91bb5e615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540bad894362751aac9c842c51aefb47') in 4.012463 seconds
+  Import took 4.018107 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.486 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 253.0 MB.
+System memory in use after: 253.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3912.
+Total: 3.237190 ms (FindLiveObjects: 0.337994 ms CreateObjectMapping: 0.135786 ms MarkObjects: 2.664558 ms  DeleteObjects: 0.096687 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.268518 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9251fca450c1fb73cb6d5710183e9d61') in 0.020788 seconds
+  Import took 0.028330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.713837 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607ceb6cf7c7ef9f6851eaae76a59931') in 0.008053 seconds
+  Import took 0.023689 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003246 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 253.5 MB.
+System memory in use after: 253.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3914.
+Total: 2.698906 ms (FindLiveObjects: 0.468905 ms CreateObjectMapping: 0.161250 ms MarkObjects: 1.974133 ms  DeleteObjects: 0.093261 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.313665 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea66012ed944b09a5a5ca1278199e695') in 0.015382 seconds
+  Import took 0.021397 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.284 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.0 MB.
+System memory in use after: 254.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3916.
+Total: 2.803372 ms (FindLiveObjects: 0.422559 ms CreateObjectMapping: 0.159756 ms MarkObjects: 2.142754 ms  DeleteObjects: 0.076323 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001089 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.4 MB.
+System memory in use after: 254.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3918.
+Total: 2.581677 ms (FindLiveObjects: 0.335578 ms CreateObjectMapping: 0.151963 ms MarkObjects: 2.019536 ms  DeleteObjects: 0.073239 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.8 MB.
+System memory in use after: 255.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3920.
+Total: 2.686814 ms (FindLiveObjects: 0.346560 ms CreateObjectMapping: 0.139195 ms MarkObjects: 2.113605 ms  DeleteObjects: 0.085633 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000948 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 255.2 MB.
+System memory in use after: 255.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3922.
+Total: 2.894526 ms (FindLiveObjects: 0.369733 ms CreateObjectMapping: 0.180406 ms MarkObjects: 2.273100 ms  DeleteObjects: 0.070021 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6371.376466 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dee9a0fd3f7742179954a0d7eacf04d') in 0.123333 seconds
+  Import took 0.181440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.212120 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f91cc4c399348f684fa12c35b6fe420') in 0.008973 seconds
+  Import took 0.022371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.335252 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84da4cf1f56eb3a0f1fdd0c8e14d5f57') in 0.014425 seconds
+  Import took 0.026982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.009703 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20087bb78363516f5b3ca3ae955e510') in 0.010359 seconds
+  Import took 0.024854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.683876 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e1e7a13adf88bc14a90785c6f12bc0') in 0.012146 seconds
+  Import took 0.026541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.116377 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6876f1aab870005f71b25c4e25eec0b9') in 0.008397 seconds
+  Import took 0.024658 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002986 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.363 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 255.8 MB.
+System memory in use after: 256.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3924.
+Total: 2.929974 ms (FindLiveObjects: 0.436471 ms CreateObjectMapping: 0.147251 ms MarkObjects: 2.251367 ms  DeleteObjects: 0.093511 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1638.148545 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28a59f287f01a1a8b68841c20f6d6cb') in 0.032723 seconds
+  Import took 0.042461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.297046 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72e48809e4ffd8f0343416353633513') in 0.005689 seconds
+  Import took 0.017916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.518587 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd8a1490ab285de46588f1d56851804') in 0.009973 seconds
+  Import took 0.021504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.296106 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6caa4a625c7921edc7b71c6afde851a') in 0.007149 seconds
+  Import took 0.022315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.092302 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e0685b3ba056e81f0a237f85ce1538') in 0.003804 seconds
+  Import took 0.010504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.970398 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cfc216066da574d1311f9d38037da85') in 0.008006 seconds
+  Import took 0.020527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.372108 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d42d1a62b98ff0711a240889a88cd5f') in 0.004770 seconds
+  Import took 0.017624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023067 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d42d1a62b98ff0711a240889a88cd5f') in 0.004232 seconds
+  Import took 0.017655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 344.722872 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14057ea75b3efc3c58ed91139588c668') in 0.006692 seconds
+  Import took 0.016829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.057958 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e3e786f30c31838ed726de604aa651') in 0.007052 seconds
+  Import took 0.024720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.175857 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e3ee19fb8c20e5905e90b4b78ae942') in 0.006604 seconds
+  Import took 0.018683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.454348 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e88235a07575236b34539d91d9165b') in 0.007029 seconds
+  Import took 0.017634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004382 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e88235a07575236b34539d91d9165b') in 0.004561 seconds
+  Import took 0.014122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.647958 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad47d3a6b0f7bdff23a5bc3c1c7db879') in 0.007759 seconds
+  Import took 0.020599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.653434 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfada7ed83beb20107d5964174b80283') in 0.005424 seconds
+  Import took 0.014219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.897609 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93ee4ac33054fb6c1aa57dffcfd0e1b') in 0.005385 seconds
+  Import took 0.017081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.573927 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd99ba61b06852f81fb3d1cd31b499b') in 0.005212 seconds
+  Import took 0.012738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.220625 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb276d290eea64ab04492dc8decfa15') in 0.008747 seconds
+  Import took 0.023140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.021259 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86c9c03147748276bd25f387c71ba43') in 0.006069 seconds
+  Import took 0.014553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.119990 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ed61c211b9510024b427e12a7a657f') in 0.007591 seconds
+  Import took 0.019029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005229 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ed61c211b9510024b427e12a7a657f') in 0.004494 seconds
+  Import took 0.013982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.345641 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be7f27ace0253d7348fb485ccf633b4') in 0.006837 seconds
+  Import took 0.019908 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.371 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 256.5 MB.
+System memory in use after: 256.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3926.
+Total: 2.702804 ms (FindLiveObjects: 0.531279 ms CreateObjectMapping: 0.165315 ms MarkObjects: 1.921813 ms  DeleteObjects: 0.083255 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 256.9 MB.
+System memory in use after: 257.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3928.
+Total: 2.596175 ms (FindLiveObjects: 0.362076 ms CreateObjectMapping: 0.216482 ms MarkObjects: 1.942299 ms  DeleteObjects: 0.074052 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002881 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 257.3 MB.
+System memory in use after: 257.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3930.
+Total: 2.533761 ms (FindLiveObjects: 0.325478 ms CreateObjectMapping: 0.145717 ms MarkObjects: 1.984504 ms  DeleteObjects: 0.076267 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 722.932199 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104905e1695ff68453acced5aa4bb29d') in 0.028677 seconds
+  Import took 0.036756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.513573 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1917f885118e9db2d3771553d696d1e8') in 0.007118 seconds
+  Import took 0.020759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.438671 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a69a6aba9fc8c3ea67a54fdc7292cd8') in 0.005623 seconds
+  Import took 0.014221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030913 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a69a6aba9fc8c3ea67a54fdc7292cd8') in 0.006653 seconds
+  Import took 0.014436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.473928 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1d210b166c9b6fb44e61cc86408e39') in 0.005746 seconds
+  Import took 0.014774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.979635 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbcf6f0b17b6571521870efc569e3dee') in 0.006329 seconds
+  Import took 0.018177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.474612 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be590c0c67e9989561ef2040663c184') in 0.006927 seconds
+  Import took 0.019389 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001191 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 257.8 MB.
+System memory in use after: 257.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3932.
+Total: 2.770951 ms (FindLiveObjects: 0.383169 ms CreateObjectMapping: 0.153623 ms MarkObjects: 2.130204 ms  DeleteObjects: 0.101479 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.251842 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908b3d75f44b027879a6b1dddf8f6494') in 0.015808 seconds
+  Import took 0.022639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021799 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908b3d75f44b027879a6b1dddf8f6494') in 0.004423 seconds
+  Import took 0.011679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.384116 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f32bb63b26eefb595c67e993f941d3') in 0.009307 seconds
+  Import took 0.015864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.878715 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993474c80fae255cb76f537496a649a8') in 0.008980 seconds
+  Import took 0.020650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.394751 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da1d545f6cdf2d932e9a55e81231091') in 0.016554 seconds
+  Import took 0.030428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.952389 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a61b68bc6c0ff87fdeef3a170d6491e') in 0.006563 seconds
+  Import took 0.015912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.859108 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5dd88409caf163671ce07ff20ca12bc') in 0.017217 seconds
+  Import took 0.030783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.615656 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fec142301069e3f5ed08028238a5a30') in 0.004704 seconds
+  Import took 0.012106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.238171 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fec142301069e3f5ed08028238a5a30') in 0.008345 seconds
+  Import took 0.018769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.040985 seconds.
+  path: Assets/VFXs/beefireworks.vfx
+  artifactKey: Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/beefireworks.vfx using Guid(a8618f60e05be4a5cab6fd42a905d9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e9502471433fe63e52975ec0a5a0b3') in 0.008768 seconds
+  Import took 0.016587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.593525 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc60fea8a6989045ceed10971185483') in 0.009290 seconds
+  Import took 0.019065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.629747 seconds.
+  path: Assets/VFXs/botan Firework.vfx
+  artifactKey: Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/botan Firework.vfx using Guid(3ec8c99d0ebb44e3a98e3baa04694578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac91b0375c307f868a8908d0bba1693') in 0.007172 seconds
+  Import took 0.018600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.367299 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54e239184b5d6fc9d2835429e0c1df2') in 0.018165 seconds
+  Import took 0.031225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.858306 seconds.
+  path: Assets/VFXs/dubblecolorfirework.vfx
+  artifactKey: Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/dubblecolorfirework.vfx using Guid(707002af080f54436b0a2c002b46876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab21da064ce1eaf2ed6fd8daa38096f0') in 0.008535 seconds
+  Import took 0.019600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.433109 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34f1cf2c9f1c492f0b5d7c1bab8bef9') in 0.008451 seconds
+  Import took 0.014870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.986651 seconds.
+  path: Assets/VFXs/Explode VFX.vfx
+  artifactKey: Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Explode VFX.vfx using Guid(167e97913b7764db18da071c9eef1c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019580dd0963043e677e411cf36f3d4d') in 0.006890 seconds
+  Import took 0.016404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.610208 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca14892262bd9e110b5f36ba3a35fa76') in 0.012938 seconds
+  Import took 0.027073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.731530 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43209ad2138b1209c08b6cdba429e120') in 0.006769 seconds
+  Import took 0.017871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.405385 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ce1f34678763ffd58e187fa0e2693') in 0.008813 seconds
+  Import took 0.018033 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.489 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 258.3 MB.
+System memory in use after: 258.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3934.
+Total: 6.840882 ms (FindLiveObjects: 0.993969 ms CreateObjectMapping: 0.410425 ms MarkObjects: 5.018857 ms  DeleteObjects: 0.411895 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.167251 seconds.
+  path: Assets/VFXs/Firework VFX2.vfx
+  artifactKey: Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFXs/Firework VFX2.vfx using Guid(1819360ebea864664afe03db40d30e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2a5e2d5ed532161a99fa45ada5d7ae') in 0.027011 seconds
+  Import took 0.035052 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.407 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 258.7 MB.
+System memory in use after: 258.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3936.
+Total: 2.386929 ms (FindLiveObjects: 0.349661 ms CreateObjectMapping: 0.148513 ms MarkObjects: 1.816983 ms  DeleteObjects: 0.070490 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -3,9 +3,9 @@
     <Files>
       <File FileName="Assets/scripts/targetmove.cs" Line="9" Column="17" />
       <File FileName="Assets/scripts/cameratargetmove.cs" />
-      <File FileName="Assets/scripts/lighttargetmove.cs" Line="18" Column="83" />
-      <File FileName="Library/PackageCache/com.unity.visualeffectgraph@10.2.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs" Line="1" Column="1" />
-      <File FileName="Assets/scripts/Firework action.cs" Line="16" Column="40" />
+      <File FileName="Assets/scripts/lighttargetmove.cs" />
+      <File FileName="Library/PackageCache/com.unity.visualeffectgraph@10.2.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs" />
+      <File FileName="Assets/scripts/Fireworkaction.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +13,7 @@
           <Node name="VFX practice" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="scripts" expanded="True">
-                <Node name="Fireworkaction.cs" selected="True" />
+                <Node name="targetmove.cs" selected="True" />
               </Node>
             </Node>
           </Node>
